@@ -1,1 +1,0 @@
-SELECT * FROM `workintech-bootcamp-atakan-can.Team6_Steam.application_publishers` 
