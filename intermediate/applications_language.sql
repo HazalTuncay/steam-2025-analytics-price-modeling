@@ -1,1 +1,0 @@
-select*from workintech-bootcamp-atakan-can.Team6_Steam.applications_language
