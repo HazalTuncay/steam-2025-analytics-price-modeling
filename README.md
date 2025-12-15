@@ -46,10 +46,10 @@ Proje, **Modern Data Stack** yaklaşımıyla bulut tabanlı olarak tasarlanmış
 
 Projeye ait ana çıktılara aşağıdaki bağlantılar üzerinden erişilebilir:
 
-| İçerik | Açıklama |
-|------|------|
-| 📊 Looker Studio Dashboard | Canlı analiz ve görselleştirme | [👉 Raporu Görüntüle](https://lookerstudio.google.com/reporting/b9a540f5-3547-47dd-93e2-4615199bd0fb))
-| 🗺️ Veri Mimarisi | Model ve veri akışı şeması (tldraw) | [👉 Mimariyi Görüntüle](https://www.tldraw.com/f/A1G0ucpf2pwONYo6cEshK?d=v-873.343.2568.1220.page))
+| İçerik | Açıklama | Link |
+|--------|----------|------|
+| 📊 Looker Studio Dashboard | Canlı analiz ve görselleştirme | [👉 Raporu Görüntüle](https://lookerstudio.google.com/reporting/b9a540f5-3547-47dd-93e2-4615199bd0fb) |
+| 🗺️ Veri Mimarisi | Model ve veri akışı şeması (tldraw) | [👉 Mimariyi Görüntüle](https://www.tldraw.com/f/A1G0ucpf2pwONYo6cEshK?d=v-873.343.2568.1220.page) |
 
 ---
 
